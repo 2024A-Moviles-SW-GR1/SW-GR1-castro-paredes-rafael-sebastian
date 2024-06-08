@@ -1,0 +1,2 @@
+idComprador,idFactura,codigoFactura,fechaFactura,facturaPagada,valorFactura
+1,1,1526,07-06-2024,true,50.0
