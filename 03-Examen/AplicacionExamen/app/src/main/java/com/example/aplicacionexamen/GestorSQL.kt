@@ -36,7 +36,7 @@ class GestorSQL(context: Context) : SQLiteOpenHelper(context, DATABASE_NAME, nul
     }
 
     override fun onUpgrade(db: SQLiteDatabase, oldVersion: Int, newVersion: Int) {
-        // Aquí puedes manejar las actualizaciones de la base de datos
+        
     }
 
     // CRUD Operaciones para Cliente
